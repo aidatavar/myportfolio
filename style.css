@@ -30,6 +30,7 @@
    background-position: center;
  }
  
+
  header{
    position: relative;
    top: 0;
@@ -149,6 +150,10 @@
  }
  
  /* End of about section */
+
+ .portfolio{
+   background-color: #79E0EE;
+ }
  
  .wrapper {
    display: grid;
